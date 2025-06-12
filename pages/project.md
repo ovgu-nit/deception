@@ -1,7 +1,7 @@
 ---
-title: Deception
-description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat"
-background: /assets/theme/images/header-img.jpg
+title: Deception Detection
+description: "This project is about automatic deception detection in video call situations, based on video and audio cues."
+background: /assets/theme/images/layout1_overview.png
 permalink: /project/
 ---
 
