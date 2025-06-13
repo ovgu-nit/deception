@@ -1,12 +1,16 @@
 ---
 layout: home
 #title: EU EFRE collaborative research project 
-title: Deception 
-subtitle: Detection
+title: Deception Detection
+subtitle: In Virtual Sales Meetings
 
-description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat."
-background: /assets/theme/images/header-img.jpg
+description: "This project is about automatic deception detection in video call situations, based on video and audio cues."
+background: /assets/theme/images/layout1_overview_onlyImages.jpg
 permalink: /
 ---
-# ENABLING
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+# Deception Detection In virtual sales meetings
+How can deception be detected in digital conversations? Our project explores AI-powered methods for automated deception detection—for example, in video conferences, sales calls, or online surveys. Unlike traditional lie detectors, we focus on non-contact, unobtrusive techniques suitable for everyday situations.
+
+To support this, we are building a new video dataset specifically designed for economic experiments. The goal is to analyze human deception in realistic but voluntary contexts—such as exaggerated product claims. Alongside classic tools like OpenFace, we compare modern deep learning models and study how people respond to automated deception detection.
+
+This interdisciplinary project combines psychology, computer science, and economics, aiming to promote fairer digital interactions in the long run.

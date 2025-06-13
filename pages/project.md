@@ -1,7 +1,7 @@
 ---
 title: Deception Detection
 description: "This project is about automatic deception detection in video call situations, based on video and audio cues."
-background: /assets/theme/images/layout1_overview.png
+background: /assets/theme/images/layout1_overview_onlyImages.jpg
 permalink: /project/
 ---
 
