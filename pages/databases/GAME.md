@@ -5,7 +5,7 @@ background: /assets/theme/images/layout1_overview_onlyImage.jpg
 permalink: /databases/GAME/
 ---
 
-![](/paindetection_nit/assets/theme/images/Sample.png)
+![](/assets/theme/images/Sample.png)
 
 ## Description of the Buyer-Seller-Deception-Game dataset
 This dataset stems from a large-scale incentivized economic experiment focused on deception in buyer-seller interactions — a central issue in markets with asymmetric information. In our study, sellers were financially motivated to deceive buyers about a product’s true quality, mimicking real-world incentives in markets such as used cars or salary negotiations.

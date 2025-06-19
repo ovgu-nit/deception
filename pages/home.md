@@ -2,7 +2,7 @@
 layout: home
 #title: EU EFRE collaborative research project 
 title: Deception Detection
-subtitle: In Virtual Sales Meetings
+subtitle: The Impact of AI-Powered Lie Detection in Negotiations
 
 description: "This project is about automatic deception detection in video call situations, based on video and audio cues."
 background: /assets/theme/images/layout1_overview_onlyImage.jpg
