@@ -8,6 +8,7 @@ permalink: /project/
 
 {: .alert .alert-warning}
  
+* todo: project image 
 ![image](/deception/assets/theme/images/project_img.jpg)
 
 ## Motivation
