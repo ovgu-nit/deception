@@ -6,6 +6,10 @@
   href: /project/
 - text: Team
   href: /team/
+- text: Datasets
+  menu:
+  - text: GAME
+    href: /databases/GAME/
 - text: Publications
   href: /publications/
 - text: News
