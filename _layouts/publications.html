@@ -53,38 +53,36 @@ img {
 </style>
 
 {{ content }}
-
-{% assign current_year = "" %}
+{% assign current_tag = "" %}
 {% for item in site.posts %}
-  {% if item.categories contains 'Publication' %}
-    {% assign year = item.date | date: "%Y" %}
-    {% if year != current_year %}
-      {% unless current_year == "" %}
-        </div> <!-- Close previous year section -->
-      {% endunless %}
-      <div class="year-section">
-        <div class="year-title">{{ year }}</div>
-        {% assign current_year = year %}
-    {% endif %}
-    <div class="media">
-      {% if item.image %}
-        <img class="mr-3" src="{{ item.image | relative_url }}" alt="Publication Image">
-      {% endif %}
-      <div class="media-body">
-        <p style="line-height:120%;margin-bottom:0.2em; font-weight: bold;">
-          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-        </p>
-        {% if item.author %}
-        <small>
-          <p style="line-height:110%;margin-bottom:0.2em; color: grey;">
-                <font color="grey">{{ item.author }}</font>
-            </p>
-              {{ item.conference | markdownify }}
-          </small>
-        {% endif %}
-
-      </div>
-    </div>
-  {% endif %}
+{% if item.categories contains 'Publication' %}
+{% assign tag = item.tags | first %}
+{% if tag != current_tag %}
+{% unless current_tag == "" %}
+</div> <!-- Close previous tag section -->
+{% endunless %}
+<div class="tag-section">
+<div class="tag-title">{{ tag }}</div>
+{% assign current_tag = tag %}
+{% endif %}
+<div class="media">
+{% if item.image %}
+<img class="mr-3" src="{{ item.image | relative_url }}" alt="Publication Image">
+{% endif %}
+<div class="media-body">
+<p style="line-height:120%;margin-bottom:0.2em; font-weight: bold;">
+<a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+</p>
+{% if item.author %}
+<small>
+<p style="line-height:110%;margin-bottom:0.2em; color: grey;">
+<font color="grey">{{ item.author }}</font>
+</p>
+{{ item.conference | markdownify }}
+</small>
+{% endif %}
+</div>
+</div>
+{% endif %}
 {% endfor %}
-</div> <!-- Close last year section -->
+</div> <!-- Close last tag section -->
