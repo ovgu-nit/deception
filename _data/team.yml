@@ -1,8 +1,9 @@
 - name: Neuro-Information Technology Group, Otto-von-Guericke-University Magdeburg
-  role: Neuro-Information Technology | AI based Deception Detection # Will appear next to name
+  role: Neuro-Information Technology | AI based Deception Detection, evaluation of agotrithms on several datasets # Will appear next to name
   image: https://www.cd.ovgu.de/cd_media/CD_OVGU/Fakult%C3%A4tsmerkmale/Logo_Abbildungen/FEIT/Signet_FEIT_1-height-145-width-344.svg # Can be external link
   description: > # Can be Markdown
-    The Neuro-Information Technology (NIT) group is located technically at the intersection of research fields multisensory information gathering and processing, human-machine interaction (HMI) and information perception. This involves at first the use of modern methods of information technology and pattern recognition for signal, image and video-based industrial and medical applications.
+    The Neuro-Information Technology (NIT) group is located technically at the intersection of research fields multisensory information gathering and processing, human-machine interaction (HMI) and information perception.
+     This involves at first the use of modern methods of information technology and pattern recognition for signal, image and video-based industrial and medical applications.
   #orcid: 0000-0000-0000-0000
   #researchgate: researchgate_username
   #googlescholar: googlescholar_username
@@ -13,11 +14,13 @@
   #github: github_username
   #email: name@example.com
 
-- name: Faculty of Economics and Management, Otto-von-Guericke-University Magdeburg
-  role: Experimental economy | data aquisition
-  #image:  https://www.cd.ovgu.de/cd_media/CD_OVGU/   #wird gerade überarbeitet https://www.cd.ovgu.de/
+- name: Cooperation Parter: Faculty of Economics and Management, Otto-von-Guericke-University Magdeburg
+  role: Experimental economy | Data Aquisition
+  #
+  image:  https://www.cd.ovgu.de/cd_media/CD_OVGU/Fakult%C3%A4tsmerkmale+Abb_/Logo_Abbildungen/FWW/Signet_FWW_3-height-145-width-614.svg  #  https://www.cd.ovgu.de/Fakult%C3%A4ten/Wirtschaftswissenschaft.html
   description: >
-    The subject of medical psychology is intended to sensitize future doctors' ability to perceive mental processes and influence them for the benefit of the patient. The subject areas of psychology as a whole are of great importance for explaining the development and treatment of somatic and mental illnesses. The main subjects of medical psychology include the doctor-patient relationship, dealing with the seriously ill and dying, coping with illness, cooperative relationships and conflicts in teamwork or the excessive demands placed on doctors. According to the licensing regulations, the subject of medical psychology is part of the first section of the medical examination (Physikum). © 2025 Medizinische Psychologie, Uni Ulm
+    Experimental economics studies human decision-making by observing behavior in controlled, incentivized laboratory or field experiments.
+    
 
 
 
