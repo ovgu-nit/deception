@@ -19,7 +19,9 @@
 #  description: >
 #    The subject of medical psychology is intended to sensitize future doctors' ability to perceive mental processes and influence them for the benefit of the patient. The subject areas of psychology as a whole are of great importance for explaining the development and treatment of somatic and mental illnesses. The main subjects of medical psychology include the doctor-patient relationship, dealing with the seriously ill and dying, coping with illness, cooperative relationships and conflicts in teamwork or the excessive demands placed on doctors. According to the licensing regulations, the subject of medical psychology is part of the first section of the medical examination (Physikum). © 2025 Medizinische Psychologie, Uni Ulm
 
-- name: 'Cooperation Parter: Faculty of Economics and Management, Otto-von-Guericke-University Magdeburg'
+- name: Cooperation Parters
+
+- name: 'Faculty of Economics and Management, Otto-von-Guericke-University Magdeburg'
   role:  Experimental economy | Data Aquisition
   #
   image:  https://www.cd.ovgu.de/cd_media/CD_OVGU/Fakult%C3%A4tsmerkmale+Abb_/Logo_Abbildungen/FWW/Signet_FWW_3-height-145-width-614.svg  #  https://www.cd.ovgu.de/Fakult%C3%A4ten/Wirtschaftswissenschaft.html
