@@ -15,11 +15,11 @@
   #email: name@example.com
 
 - name: Cooperation Parter: Faculty of Economics and Management, Otto-von-Guericke-University Magdeburg
-  role: Experimental economy | Data Aquisition
+  role:  Experimental economy | Data Aquisition
   #
   image:  https://www.cd.ovgu.de/cd_media/CD_OVGU/Fakult%C3%A4tsmerkmale+Abb_/Logo_Abbildungen/FWW/Signet_FWW_3-height-145-width-614.svg  #  https://www.cd.ovgu.de/Fakult%C3%A4ten/Wirtschaftswissenschaft.html
   description: >
-    Experimental economics studies human decision-making by observing behavior in controlled, incentivized laboratory or field experiments.
+    Experimental economics studies human decision-making by observing behavior in controlled, incentivized laboratory or field experiments. 
     
 
 
