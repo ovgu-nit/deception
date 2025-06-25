@@ -8,18 +8,8 @@ permalink: /project/
 
 {: .alert .alert-warning}
 
- <!-- gif can be used instead mp4, converter for example  https://ezgif.com/  -->
-* todo: project image 
-![image](/deception/assets/theme/images/samle_video.gif)
 
 
-
-<a href="#" onclick="this.nextElementSibling.style.display='block'; this.style.display='none'; return false;">
-  <img src="/deception/assets/theme/images/sample_video_preview.jpg" alt="Vorschaubild">
-</a>
-<video style="display:none;" controls autoplay>
-  <source src="/deception/assets/theme/images/sample_video.mp4" type="video/mp4">
-</video>
 
 ## Motivation
 Deception detection is a complex, multidisciplinary field that has gained increasing attention through advances in AI.
@@ -28,6 +18,9 @@ While traditional polygraph tests are still in use, automated and less invasive 
 In digital markets, deception (e.g., misleading product claims) can harm both consumers and honest providers. Despite people’s confidence in their ability to detect deception, research shows their accuracy is only slightly above chance — while they also tend to underestimate how well they can deceive others.
 Automated systems could therefore provide valuable support in remote interactions such as virtual sales or consultations.
 This project explores the capabilities and limitations of deception detection systems, along with their potential impact on society.
+
+ <!-- gif can be used instead mp4, converter for example  https://ezgif.com/  -->
+![image](/deception/assets/theme/images/samle_video.gif)
 
 ## Goals and Procedures
 In this project, we acquired a new dataset for video-based deception detection in low-stake, economic contexts: the Buyer-Seller-Deception-Game (GAME) Dataset. 
