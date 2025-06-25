@@ -7,15 +7,18 @@ permalink: /project/
 ---
 
 {: .alert .alert-warning}
- 
+
+ <!-- gif can be used instead mp4, converter for example  https://ezgif.com/  -->
 * todo: project image 
-![image](/deception/assets/theme/images/samle_video.mp4)
+![image](/deception/assets/theme/images/samle_video.gif)
 
 
 
-<video width="640" height="360" controls>
-  <source src="/deception/assets/theme/images/samle_video.mp4" type="video/mp4">
-  Dein Browser unterstützt das Video-Tag nicht.
+<a href="#" onclick="this.nextElementSibling.style.display='block'; this.style.display='none'; return false;">
+  <img src="/deception/assets/theme/images/sample_video_preview.jpg" alt="Vorschaubild">
+</a>
+<video style="display:none;" controls autoplay>
+  <source src="/deception/assets/theme/images/sample_video.mp4" type="video/mp4">
 </video>
 
 ## Motivation
