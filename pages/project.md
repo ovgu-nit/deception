@@ -9,7 +9,14 @@ permalink: /project/
 {: .alert .alert-warning}
  
 * todo: project image 
-![image](/deception/assets/theme/images/project_img.jpg)
+![image](/deception/assets/theme/images/samle_video.mp4)
+
+
+
+<video width="640" height="360" controls>
+  <source src="/deception/assets/theme/images/samle_video.mp4" type="video/mp4">
+  Dein Browser unterstützt das Video-Tag nicht.
+</video>
 
 ## Motivation
 Deception detection is a complex, multidisciplinary field that has gained increasing attention through advances in AI.

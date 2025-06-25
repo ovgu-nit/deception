@@ -10,7 +10,7 @@ tags: [Projects,News]
 
 ## The follow-up project has been approved
 
-![image](/deception/assets/theme/images/mindmap_diagnostik_linked.svg)
+<!-- ![image](/deception/assets/theme/images/mindmap_diagnostik_linked.svg)    href does not work unless image opened in new tab  -->
 
 We are happy to announce the follow-up project .... <description according to project proposal> <DFG grant number>
 
