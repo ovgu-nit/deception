@@ -10,6 +10,8 @@
   menu:
   - text: GAME
     href: /databases/GAME/
+  - text: RollingDice
+    href: /databases/RollingDice/  
 - text: Publications
   href: /publications/
 - text: News
