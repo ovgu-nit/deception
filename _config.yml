@@ -28,7 +28,7 @@ colors:
 font_serif: False                        # Font type for page content: serif (default) or slightly smaller sans-serif
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
 logo: /assets/theme/images/deception_icon.svg # Logo in navbar, will be displayed with 30px height
-
+ 
 # BUILD SETTINGS
 markdown: kramdown
 plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
