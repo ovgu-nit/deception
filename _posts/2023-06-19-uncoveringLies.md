@@ -24,5 +24,4 @@ Deception detection is a challenging and interdisciplinary field that has garner
   year={2023},
   organization={Springer}
 }
-}
 ```
