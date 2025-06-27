@@ -2,7 +2,7 @@
 title: DECEPTION DETECTION                      # Title in top navigation bar (navbar) and <head>
 author: NIT OVGU                    # Used for copyright statement in footer
 repository: ovgu-nit/deception
-baseurl: /enabling                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+baseurl: /deception                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.com/petridish/markdown/#links
 
