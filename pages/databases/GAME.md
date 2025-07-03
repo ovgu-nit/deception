@@ -26,6 +26,8 @@ This dataset is a robust foundation for training and evaluating lie detection al
 
 __The full database release is forthcoming and will be freely available for academic use.__
 
+![image](/deception/assets/theme/images/samle_video_heat.gif)
+
 ## Future Layouts
 In the ongoing second layout, buyers can choose to receive assistance from an AI-based deception detection system after the seller's recommendation — or, in a sublayout, receive the true card color with 100% accuracy directly from the experimenter.
 
