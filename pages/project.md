@@ -42,4 +42,6 @@ Additionally, we investigate user attitudes towards online-compatible deception 
 The GAME dataset will be made freely available for research, supporting the responsible development of explainable AI systems for future remote communication applications.
 In our future project, we will further adress additional approaches of deception detection,  including hand gestures, vital parameters and a comparison of RBG vs Thermal camera cues.
 
+This project (AL 638/13-1) was funded by the German Research Foundation (DFG).
+
 ![image](/deception/assets/theme/images/dfg_logo_englisch_blau_en.gif)
