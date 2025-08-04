@@ -26,7 +26,8 @@ This dataset is a robust foundation for training and evaluating lie detection al
 
 ## Release
 __A full release of the database is planned and intended to be made freely available for academic use!__
-Status Overview:
+
+Status Overview for Layout1:
 * [ ]  Publication of the database description in a peer-reviewed journal
 * [ ]  Post-processing and final consistency checks of the dataset
 * [ ]  Legal review and compliance with data protection and institutional policies
