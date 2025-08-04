@@ -25,7 +25,11 @@ All videos were recorded under controlled lab conditions (4K webcams, 60 fps, st
 This dataset is a robust foundation for training and evaluating lie detection algorithms in economically relevant settings — offering higher realism and data quality than previously available resources.
 
 ## Release
-__The full database release is forthcoming and will be freely available for academic use!__
+__A full release of the database is planned and intended to be made freely available for academic use!__
+Status Overview:
+* [ ]  Publication of the database description in a peer-reviewed journal
+* [ ]  Post-processing and final consistency checks of the dataset
+* [ ]  Legal review and compliance with data protection and institutional policies
 
 ![image](/deception/assets/theme/images/sample_video_heat.gif)
 
