@@ -29,7 +29,7 @@ __A full release of the database is planned and intended to be made freely avail
 
 Status Overview for Layout1:
 * [x]  Publication of the database description in a peer-reviewed journal
-    * 10 Feb 2026 -- Paper accepted; publication coming soon
+    * 10 Feb 2026 – Paper accepted; publication coming soon
     * 26 Feb 2026 – Paper published: [https://doi.org/10.1016/j.iswa.2026.200636](https://doi.org/10.1016/j.iswa.2026.200636)
 * [ ]  Post-processing and final consistency checks of the dataset
 * [ ]  Legal review and compliance with data protection and institutional policies
