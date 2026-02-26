@@ -29,11 +29,32 @@ __A full release of the database is planned and intended to be made freely avail
 
 Status Overview for Layout1:
 * [x]  Publication of the database description in a peer-reviewed journal
-    * 10 Feb 2026 – Paper accepted; publication coming soon
+    * 10 Feb 2026 -- Paper accepted; publication coming soon
+    * 26 Feb 2026 – Paper published: [https://doi.org/10.1016/j.iswa.2026.200636](https://doi.org/10.1016/j.iswa.2026.200636)
 * [ ]  Post-processing and final consistency checks of the dataset
 * [ ]  Legal review and compliance with data protection and institutional policies
 
 ![image](/deception/assets/theme/images/sample_video_heat.gif)
+
+## Database Access 
+* __Coming soon__
+
+### Paper citation
+When using this dataset, please cite the associated papers according to the license. A BibTeX entry is provided for convenience.
+
+```bibtex
+@article{DINGES2026200636,
+title = {Buyer–Seller-Deception-Game Dataset: A new comprehensive dataset for facial expression based deception detection in economic contexts},
+journal = {Intelligent Systems with Applications},
+volume = {29},
+pages = {200636},
+year = {2026},
+issn = {2667-3053},
+doi = {https://doi.org/10.1016/j.iswa.2026.200636},
+url = {https://www.sciencedirect.com/science/article/pii/S2667305326000116},
+author = {Laslo Dinges and Marc-André Fiedler and Ayoub Al-Hamadi and Dmitri Bershadskyy and Joachim Weimann},
+keywords = {New deception detection dataset, Facial action-units, EmotioNet, Audio, Experimental economics}
+```
 
 ## Future Layouts
 In the ongoing second layout, buyers can choose to receive assistance from an AI-based deception detection system after the seller's recommendation — or, in a sublayout, receive the true card color with 100% accuracy directly from the experimenter.
